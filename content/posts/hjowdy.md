@@ -71,5 +71,5 @@ End your rambling already.
 
 [^3]: Lest you think he was singling out COBOL, he also said: "FORTRAN --'the infantile disorder'--, by now nearly 20 years old, is hopelessly inadequate for whatever computer application you have in mind today: it is now too clumsy, too risky, and too expensive to use."[^4]
 
-[^4]: Do *not*, like me, engage in the pure degeneracy that is the nested.  
+[^4]: Do *not*, like me, engage in the pure degeneracy that is the nested footnote.  
 
