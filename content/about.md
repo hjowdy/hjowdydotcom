@@ -4,23 +4,27 @@ draft: false
 ---
 ## Hjowdy. Hejlo.
 
-This website is meant to get you started exploring the world of programming, privacy, security, and anything else you can think of. It's a playground for experimentation and creativity. My only request is that you pursue or do any of these things *only if you want to*. Please feel no obligation to anyone but yourself to learn what you want, when you want. Ho Ho Ho.
+### WTF *is* This?
+Whatever you want it to be. A place for writing, experimentation, subverting the government, blog posts about How to Write Blog Posts. 
+
+### ...but do I have to?
+No! Hell no. Don't do any of these things ***unless you want to***. Please feel no obligation to do anything with any of this, ever. Learn what you want, when you want. Ho Ho Ho.
 
 ### Hjelpful Links
 
-These are some resources related to this site. Additionally, I will transfer ownership of the domain, GitHub repository, and server instance whenever you're ready.
+So, like, here are some resources related to this site. I will transfer ownership of the domain, GitHub repository, [click farm](https://en.wikipedia.org/wiki/Click_farm), and server instance whenever/if you're ready. 
 
-* DNS provider and Server &mdash; Njalla - "Considered the worlds most notorious 'Privacy as a Service' provider for domains, VPS, and VPNS'"
-    * [Clearnet](https://njal.la/)
+* DNS provider and Server &mdash; Njalla - "Considered the worlds most notorious 'Privacy as a Service' provider for domains, VPS, and VPNS'". Also known as the lovely Swedish folks who gave us The Pirate Bay:
+    * [Clearnet](https://njal.la/) site
     * [Onion Service](http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/)
 
 * Github repository &mdash; [hjowdydotcom](https://github.com/hjowdy/hjowdydotcom)
 
-* Read this [About Git](https://docs.github.com/en/get-started/using-git/about-git) page for an intro to git (and GitHub), so you can take full control of your code.
+* Read this [About Git](https://docs.github.com/en/get-started/using-git/about-git) page for an intro to git (and GitHub), so you can take full control of your code. Go on, git!
 
-* Read up on PGP: [GnuPG - aka GPG](https://gnupg.org/)
+* Read up on PGP: [GnuPG - aka GPG](https://gnupg.org/). It is 99% infuriating but helpful for a few specific tasks, like cryptographic signatures.
 
-Speaking of which, the maker of this website can be reached at: hjowdynjalla [at] protonmail [dot] com. Try using PGP! See below.
+Speaking of which, the maker of this website can be reached at: hjowdynjalla [at] protonmail [dot] com. You can send encrypted mail using the below PGP key. 
 
 
 ### PGP Key
