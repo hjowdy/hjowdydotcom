@@ -26,7 +26,7 @@ It's vry helpful. But don't be clickbaity. Tell something true. Or something wil
 
 ## Subheadings, too.
 
-Good for seugueing.
+Good for seugueing.[^2]
 
 For instance, here is my one-and-only attempt at COBOL. Notice that COBOL makes even the otherwise pleasant-looking code formatting appear *off*:
 
@@ -41,7 +41,7 @@ For instance, here is my one-and-only attempt at COBOL. Notice that COBOL makes 
 
 {{< / highlight >}}
 
-What a mess. But hej, as the famed computer scientist Edsger Dijkstra once said about COBOL: "...you can either fight the disease or pretend it does not exist."[^2]
+What a mess. But hej, as the famed computer scientist Edsger Dijkstra once said about COBOL: "...you can either fight the disease or pretend it does not exist."[^3]
 
 Here is an example of a modern language ([Golang](https://go.dev/)) with some really cool formatting:
 
@@ -67,9 +67,10 @@ func (d *DB) CreatePost(p *models.Post) error {
 End your rambling already.
 
 [^1]: *Mr. Robot* S01E01
-[^2]: He also said that "the use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offence." LOL. Quite harsh.[^3] See: [*How do we tell truths that might hurt?*, Edsger W. Dijkstra](https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)
+[^2]: Should be *segueing*. It's also a great idea to use some kind of spellcheck. 
+[^3]: He also said that "the use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offence." LOL. Quite harsh.[^3] See: [*How do we tell truths that might hurt?*, Edsger W. Dijkstra](https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)
 
-[^3]: Lest you think he was singling out COBOL, he also said: "FORTRAN --'the infantile disorder'--, by now nearly 20 years old, is hopelessly inadequate for whatever computer application you have in mind today: it is now too clumsy, too risky, and too expensive to use."[^4]
+[^4]: Lest you think he was singling out COBOL, he also said: "FORTRAN --'the infantile disorder'--, by now nearly 20 years old, is hopelessly inadequate for whatever computer application you have in mind today: it is now too clumsy, too risky, and too expensive to use."[^4]
 
-[^4]: Do *not*, like me, engage in the pure degeneracy that is the nested footnote.  
+[^5]: Do *not*, like me, engage in the pure degeneracy that is the nested footnote.  
 
