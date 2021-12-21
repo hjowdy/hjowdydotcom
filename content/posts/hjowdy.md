@@ -68,9 +68,9 @@ End your rambling already.
 
 [^1]: *Mr. Robot* S01E01
 [^2]: Should be *segueing*. It's also a great idea to use some kind of spellcheck. 
-[^3]: He also said that "the use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offence." LOL. Quite harsh.[^3] See: [*How do we tell truths that might hurt?*, Edsger W. Dijkstra](https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)
+[^3]: He also said that "the use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offence." Quite harsh.[^4] See: [*How do we tell truths that might hurt?*, Edsger W. Dijkstra](https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)
 
-[^4]: Lest you think he was singling out COBOL, he also said: "FORTRAN --'the infantile disorder'--, by now nearly 20 years old, is hopelessly inadequate for whatever computer application you have in mind today: it is now too clumsy, too risky, and too expensive to use."[^4]
+[^4]: Lest you think he was singling out COBOL, he also said: "FORTRAN --'the infantile disorder'--, by now nearly 20 years old, is hopelessly inadequate for whatever computer application you have in mind today: it is now too clumsy, too risky, and too expensive to use."[^5]
 
 [^5]: Do *not*, like me, engage in the pure degeneracy that is the nested footnote.  
 
